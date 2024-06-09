@@ -1,0 +1,284 @@
+body {
+    font-family: Montserrat;
+    background-color:black ;
+    color: white;
+    
+}
+.cd {
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+.main{
+    background-color: #121212;
+    width: 18rem;
+    height: 10rem;
+    margin: 0 0.6rem 0 0;
+    border-radius:0.5rem ;
+
+    line-height: 3rem;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    
+}
+.side{
+    
+    margin-left: 18.5rem;
+    
+    display: flex;
+
+}
+.mains{
+    width: 60rem;
+    height: 4rem;
+    background-color: #121212;
+    top: 0;
+    position:fixed;
+}
+
+
+
+.footer{
+    background-color:#2596be;
+    height: 3rem;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-weight: 500;
+    font-size: medium;
+    margin: 0.2 0.5rem 0.5rem 1rem ;
+}
+.home{
+    font-weight: 700;
+    padding-left: 1rem;
+    
+}
+.spot{
+    font-weight: 600;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+.search{
+    font-weight: 700;
+    opacity:0.5;
+    padding-left: 1rem;
+    
+}
+.search:hover{
+    opacity: 1;
+    
+    text-decoration: underline;
+    
+}
+.main i{
+    font-size: x-large;
+}
+.home a{
+    margin: 0.9rem;
+    text-decoration: none;
+    color: white;
+
+} 
+.search a{
+    margin: 0.9rem;
+    text-decoration: none;
+    color: white;
+}
+.home:hover{
+    text-decoration: underline;
+}
+.playlist{
+    display: flex;
+    background-color: #121212;
+    margin-top: 0.5rem;
+    border-radius: 0.5rem;
+    height: 22rem;
+    color: white;
+    align-items: baseline;
+    padding: 0.2rem 0 0 1rem;
+
+
+    
+}
+.playlist a{
+    margin: 1rem;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: medium;
+    color: white;
+    opacity:0.5;
+    flex: 2;
+}
+.playlist :hover{
+    opacity:1;
+}
+.playlist i{
+    margin-left: 3.8rem;
+    padding-right: 1rem;
+}
+.vfj{
+    
+    background-color: #242424;
+    font-weight: 700;
+    padding-left: 1.5rem;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+.gh a{
+    padding-top: 2rem;
+    font-weight:200 ;
+    font-size: x-small;
+    color: white;
+    text-decoration: none;
+}
+.badge{
+    font-weight:800;
+    background-color:black;
+    border: none;
+    color: white;
+    border-radius: 2rem;
+    border-color:white;
+    margin-top: 3rem;
+}
+
+
+.badgee{
+    font-weight: 700;
+    font-size: medium;
+    border-radius:2rem;
+    border: none;
+    height: 2rem;
+    width: 13rem;
+    margin-left: 15rem;
+    padding-right: 1rem;
+}
+
+.gh{
+    font-weight: 700;
+    font-size: medium;
+    border-radius:2rem;
+    border: none;
+    height: fit-content;
+    margin-left: 0.2rem;
+    margin-top: 1.3rem;
+    line-height: 2rem;
+    
+
+}
+.mains a{
+    
+    text-decoration: none;
+    font-weight: 800;
+    font-size: medium;
+    color: white;
+    opacity:0.5;
+    margin-left: 39rem;
+    margin-top: 1rem;
+    
+
+}
+.mains a:hover{
+    opacity: 1;
+}
+.mains i{
+    margin-left: 1rem;
+    margin-top: 1rem;
+    opacity: 0.5;
+    font-size: larger;
+}
+
+.ghi{
+    font-weight: 700;
+    font-size: medium;
+    border-radius:2rem;
+    border: none;
+    height: 3rem;
+    width: 7rem;
+    margin-top: 0.5rem;
+    margin-left: 3rem;
+}
+.po{
+    background-color:#242424;
+    height: 100rem;
+    width: 60rem;
+    color: white;
+    margin-top: 0.4rem;
+    padding-left: 1rem;
+}
+.po h2{
+    padding-top: 2.5rem;
+}
+.card{
+    width: 150px;
+    background-color: #232323;
+}
+
+.card-title{
+    font-weight: 600;
+
+}
+.card-info{
+    font-size: 0.75rem;
+    opacity: 0.8;
+
+}
+.ij{
+    width: 100%;
+    border-radius: 0.5rem;
+}
+.tre{
+    display: flex;
+}
+.se{
+    display: inline;
+    width: 150px;
+    margin-left: 5rem;
+    background-color: #232323;
+}
+.ijk{
+    width: 100%;
+    border-radius: 0.5rem;
+}
+.see{
+    display: inline;
+    width: 150px;
+    margin-left: 5rem;
+    background-color: #232323;
+}
+.ijkl{
+    width: 100%;
+    border-radius: 0.5rem;
+}
+.seet{
+    display: inline;
+    width: 150px;
+    margin-left: 5rem;
+    background-color: #232323;
+}
+.ijklm{
+    width: 100%;
+    border-radius: 0.5rem;
+}
+hr{
+margin-top: 20rem;
+opacity: 0.5;;
+margin-left: 2rem;
+}
+.ghj{
+    font-weight: 400;
+    font-size: small;
+    margin-left: 2rem;
+    opacity: 0.5;
+}
+.jkl{
+    display: flex;
+}
+.jkl a{
+    margin-top: 2rem;
+    margin-left: 42rem;
+    font-size: small;
+    font-weight: 700;
+}
+.jkl a:hover{
+    text-decoration: underline;
+}
